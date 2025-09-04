@@ -1,0 +1,8 @@
+print "hi"
+
+
+
+
+workspace area            ---       staging area ----        repository area
+   (RED)
+1) Untracked files:
